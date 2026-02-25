@@ -1,0 +1,21 @@
+# PrintFlow Desktop Agent Dependencies
+# Copyright 2024 Yasin Elabe
+
+# Web framework
+flask>=2.0.0
+flask-cors>=3.0.0
+
+# SSL certificate generation
+cryptography>=3.0.0
+
+# Image processing
+Pillow>=9.0.0
+
+# System tray icon (optional but recommended)
+pystray>=0.19.0
+
+# Windows printing (install manually on Windows)
+# pywin32>=300
+
+# Build tool (development only)
+# pyinstaller>=5.0.0
